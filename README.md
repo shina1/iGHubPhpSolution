@@ -1,3 +1,3 @@
 # phptask
-First PHP task on start ng .
+First PHP task on iGHub.
 # iGHubPhpSolution
